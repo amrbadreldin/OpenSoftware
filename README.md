@@ -4,7 +4,6 @@ A list of useful open source software, please contribute if you can !
 **File Archiving Utilities**:
 
 7-Zip (Recommended): **https://sourceforge.net/projects/sevenzip/**
-
 PeaZip: **https://github.com/peazip/PeaZip**
 
 **Download Managers**:
