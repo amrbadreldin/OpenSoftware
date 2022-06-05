@@ -13,4 +13,5 @@ Motrix (Recommended): **https://github.com/agalwood/Motrix**
 
 Uget: **https://sourceforge.net/projects/urlget/**
 
-**Video editing software**
+[**Video editing software**](VideoEditors.md)
+
