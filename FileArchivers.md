@@ -1,4 +1,3 @@
 # **File Archivers**
->**7-Zip (Recommended)**: https://sourceforge.net/projects/sevenzip/
-
->**PeaZip**: https://github.com/peazip/PeaZip
+<li><a href "https://www.7-zip.org/">7-zip</a></li>
+<li><a href "https://peazip.github.io/">PeaZip</a></li>
