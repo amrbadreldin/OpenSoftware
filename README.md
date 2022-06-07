@@ -5,13 +5,10 @@ A list of useful open-source/libre/good software, please contribute if you can !
 
 <ul>
 
-[**Photo editing software**](PhotoEditors.md)
-
-[**Video editing software**](VideoEditors.md)
-
-[**Download manager software**](DownloadManagers.md)
-
-[**File archiving software**](FileArchivers.md)
+  <li><a href="#(PhotoEditors.md)">Photo editing software</a></li>
+	<li><a href="#(VideoEditors.md)">Video editing software</a></li>
+	<li><a href="#(DownloadManagers.md)">Download manager software</a></li>
+	<li><a href="#(FileArchivers.md)">File archiving software</a></li>
 
 </ul>
 </details>
