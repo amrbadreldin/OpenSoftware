@@ -1,6 +1,6 @@
 # OpenSoftware
 A list of useful open-source/libre/good software, please contribute if you can !
-
+<details>
 <summary>Table of Contents</summary>
 
 <ul>
