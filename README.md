@@ -1,5 +1,5 @@
 # OpenSoftware
-A list of useful open source/libre/good software, please contribute if you can !
+A list of useful open-source/libre/good software, please contribute if you can !
  
 **File Archiving Utilities**:
 
