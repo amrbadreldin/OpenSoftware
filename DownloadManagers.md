@@ -1,8 +1,10 @@
 # **Download Managers**
-**Download Managers**:
 
-**Motrix (Recommended):**
->**https://github.com/agalwood/Motrix**
+**Motrix (Recommended)**
+>**https://motrix.app/**
 
-**Uget:**
+**Uget**
 >**https://sourceforge.net/projects/urlget/**
+
+**Persepolis**
+>**https://persepolisdm.github.io/**
