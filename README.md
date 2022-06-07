@@ -3,6 +3,9 @@ A list of useful open-source/libre/good software, please contribute if you can !
 
 Table Of Contents:
 
+<summary>Table of Contents</summary>
+
+<ul>
 [**Photo editing software**](PhotoEditors.md)
 
 [**Video editing software**](VideoEditors.md)
@@ -10,4 +13,7 @@ Table Of Contents:
 [**Download manager software**](DownloadManagers.md)
 
 [**File archiving software**](FileArchivers.md)
+
+</ul>
+</details>
 
