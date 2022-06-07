@@ -6,6 +6,7 @@ Table Of Contents:
 <summary>Table of Contents</summary>
 
 <ul>
+
 [**Photo editing software**](PhotoEditors.md)
 
 [**Video editing software**](VideoEditors.md)
