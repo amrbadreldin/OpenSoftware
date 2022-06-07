@@ -1,2 +1,2 @@
--[Darktable](https://www.darktable.org/)
+<summary>[Darktable](https://www.darktable.org/)
 
