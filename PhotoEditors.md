@@ -1,1 +1,1 @@
->[Darktable](https://www.darktable.org/)
+[Darktable](https://www.darktable.org/)
